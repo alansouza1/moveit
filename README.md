@@ -4,7 +4,7 @@
 
 <br>
 
-# Projeto
+# Sobre o Projeto
 
 O Move.it veio para te lembrar de se exercitar sempre!
 
